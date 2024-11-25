@@ -1,0 +1,9 @@
+Clone:
+
+1) use git clone url
+
+2) there is one default branch ie. Main..
+
+3) if we want to experiment something then we can create a branch and then we commit to that       branch then in future we can merge that in main branch/ main project by: git merge name_of_branch
+
+4) to create new branch use : git branch branch_name
