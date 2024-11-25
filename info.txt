@@ -1,0 +1,6 @@
+step 1) use git init to intialise
+step 2) can use git status to find if a file is in staging area or not..
+step 3) to get a file in staging area use git add file_name 
+step 4) now use git commit to commit ...by git cit is must but -m is optional it is to message with commit..
+step 5) Eg: git commit -m "Completed module 1"..
+step 6) we can see details of commit using git log command
