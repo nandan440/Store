@@ -7,3 +7,19 @@ Clone:
 3) if we want to experiment something then we can create a branch and then we commit to that       branch then in future we can merge that in main branch/ main project by: git merge name_of_branch
 
 4) to create new branch use : git branch branch_name
+
+5) to switch branch use: git checkout branch_name
+
+6) change branches and experiment or edit
+
+7) now if you went to merge the branch use: git merge branch_name
+
+8) now push it to the main branch by : git push origin main -u
+
+Forking:(use fork button on screen) forking means copying (not cloning) others remote repository to out remote repository..and getting full access ..then we can make a local repository and make changes..
+
+Then I will create a pull request and if the owner likes it he can merger that in his code.
+
+If I fork a code and then modify it and then commit..and click new pull request button.. 
+
+this is just to merge
